@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://camo.githubusercontent.com/3b58e34f4607c08fad1787cfed025ca8adae420722d089a630a89bc6e8c8f748/68747470733a2f2f692e696d6775722e636f6d2f75626c454e32682e706e67" height="100" data-canonical-src="https://i.imgur.com/FX5irJG.png" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/3b58e34f4607c08fad1787cfed025ca8adae420722d089a630a89bc6e8c8f748/68747470733a2f2f692e696d6775722e636f6d2f75626c454e32682e706e67" height="100" data-canonical-src="https://i.imgur.com/VYxFv99.png" style="max-width: 100%;">
 </p>
 
 <div align="center">
@@ -68,7 +68,7 @@ Os principais aspectos do projeto incluem:
 
 <h2> 🗂 Estrutura das Pastas</h2>
 
-/project-root/  
+/the-wheel-nutrition-project/  
 ├── 📂 Source/                # Diretório para código-fonte adicional  
 ├── 📂 blog/                  # Diretório com os artigos do blog  
 ├── 🎨 css/                   # Diretório para folhas de estilo (CSS)  
